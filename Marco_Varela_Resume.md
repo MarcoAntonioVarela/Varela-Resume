@@ -68,10 +68,27 @@ meaningful insights to predict user trends and behaviors across website
 * Trained 10+ customer service representatives on solving technical problems via phone, email, and live chat
 
 
+## Skills
 
+<b>Advanced </b>
 
+* Python
+* SQL (MySQL, SQL Server and Oracle)
+* NoSQL databases
+* Google Tag Manager
+* Google Analytics and Google Data Studio
+* HTML and CSS
+* JavaScript
+* Microsoft Office Excel
 
+<b>Competent </b>
 
+* Hotjar
+* Power BI
+* Java
+* WordPress
+* Adobe Analytics
+* C++
 
 
 ## Volunteer Experience
